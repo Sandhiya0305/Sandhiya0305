@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=B14AED&center=true&vCenter=true&width=520&lines=Learning+something+new+every+day+%E2%9C%A8;Building+things.+Breaking+things.+Fixing+things.;Sketching+and+snapping+photos+when+I+can+%F0%9F%8E%A8%F0%9F%93%B7" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=B14AED&center=true&vCenter=true&width=700&height=40&lines=Learning+something+new+every+day;Building+things.+Breaking+things.+Fixing+things.;Sketching+and+snapping+photos+when+I+can" alt="Typing animation" />
 
 ## 👋 Hello there!
  
